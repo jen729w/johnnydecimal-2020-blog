@@ -1,6 +1,6 @@
 # Table of contents
 
-- [Home – what is this?](_HOME.md)
+- [Home](_HOME.md)
 
 ## Technical
 

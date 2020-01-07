@@ -1,8 +1,5 @@
 ---
-description: Where am I?
+description:
 ---
 
-# HOME222
-
-HOME222
-
+Inspired by [this post](https://joelhooks.com/digital-garden) by Joel Hooks, this isn't a blog.

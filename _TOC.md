@@ -2,10 +2,10 @@
 
 - [Home](_HOME.md)
 
-## Technical
+## Johnny.Decimal
 
-- [Tech post](technical/tech-post.md)
+- [Tech post](jd/tech-post.md)
 
-## Thoughts
+## JavaScript
 
-- [Thinking](thoughts/thinking.md)
+- [Thinking](js/thinking.md)

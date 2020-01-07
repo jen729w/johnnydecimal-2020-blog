@@ -10,7 +10,9 @@ Some things may start here and 'graduate' to proper articles on johnnydecimal.co
 
 ## Johnny.Decimal vs. Technical articles
 
-There'll be information about two distinct types of thing here. First, obviously, anything to do with the JD system itself. Second, I'm teaching myself to code so that I can write some tools to _support_ the system. I'll keep notes about that separate, so if you're not in to JavaScript or what have you, you can just ignore that stuff and know you're not missing anything.
+There'll be information about two distinct types of thing here. First, obviously, anything to do with the JD system itself. Those things are all under the **Johnny.Decimal** header.
+
+Second, I'm teaching myself to code so that I can write some tools to _support_ the system. I'll keep notes about that separate, so if you're not in to JavaScript or what have you, you can just ignore that stuff and know you're not missing anything. This is all under the **JavaScript** header.
 
 ## What changed, when?
 

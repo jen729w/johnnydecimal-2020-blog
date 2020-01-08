@@ -8,6 +8,7 @@
 - [AC.ID notation](acid-notation.md)
 - [Brain dump](brain_dump.md)
 - [The history of J•D](the-history-of-j-d.md)
+- [Kick in the pants](kick.md)
 
 ## JavaScript
 

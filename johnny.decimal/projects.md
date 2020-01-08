@@ -1,5 +1,7 @@
 # Multiple projects
 
+> This page will definitely become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
+
 When I [started this system](history/the-history-of-j-d.md) I was running a specific project, and I didn't really consider the need for multiple projects _on the same computer_.
 
 If two projects never meet, there's no issue. I have a project at work with one set of numbers and my system at home with another, totally unrelated, set of numbers. No problem at all – it's like I'm two people leading separate lives.
@@ -30,7 +32,7 @@ I tried systems using letters rather than numbers and they didn't work. My initi
 - `DVO.AC.ID` = the DevOps project at work
 - `ETC.AC.ID` = etc. for more projects
 
-## Numbers
+## The answer: more numbers
 
 Here were my goals and constraints when introducing new numbers:
 
@@ -64,5 +66,9 @@ Here's what I do at home.
   ...
   211 Project 11    // Yeah, I'm really up to 11
 ```
+
+## 4. It must be optional and easy to add/remove/change
+
+I'll discuss this in more detail later.
 
 <!-- TODO: Stick a Reddit link in here and create a post for the page. -->

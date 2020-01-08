@@ -11,3 +11,11 @@ description: Things here may become pages, or they may not. This is where I dump
 - Using a number or a category as an inbox so you can _quickly_ dump an idea without having to go back to the system.
   - But now, like GTD, you have to **rigorously** review and organise.
   - Is it better to just leave a number off then do that?
+
+---
+
+# GitBook Markdown
+
+{% hint style="info" %}
+Hello world
+{% endhint %}

@@ -4,10 +4,10 @@
 
 ## Johnny.Decimal
 
-- [Multiple projects](projects.md)
-- [AC.ID notation](acid-notation.md)
-- [Brain dump](brain_dump.md)
-- [The history of J•D](the-history-of-j-d.md)
+- [Multiple projects](johnny.decimal/projects.md)
+- [AC.ID notation](johnny.decimal/acid-notation.md)
+- [Brain dump](johnny.decimal/brain_dump.md)
+- [The history of J•D](johnny.decimal/the-history-of-j-d.md)
 
 ## JavaScript
 

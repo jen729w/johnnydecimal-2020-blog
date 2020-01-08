@@ -1,8 +1,8 @@
 # Multiple projects
 
-When I [started this system](history/the-history-of-j-d.md) I was running a specific project, and I didn't really consider the need for multiple projects _on the same system_.
+When I [started this system](history/the-history-of-j-d.md) I was running a specific project, and I didn't really consider the need for multiple projects _on the same computer_.
 
-If two projects never meet, there's no problem. I have a project at work with one set of numbers and my system at home with another, totally unrelated, set of numbers. No problem at all – it's like I'm two people leading separate lives.
+If two projects never meet, there's no issue. I have a project at work with one set of numbers and my system at home with another, totally unrelated, set of numbers. No problem at all – it's like I'm two people leading separate lives.
 
 Fast-forward a decade and I find myself needing more. I still have my personal system, but I work freelance and the projects I run for other people must exist alongside my personal stuff, and each other.
 
@@ -26,9 +26,9 @@ The extended system must retain the advantages of the original Johnny.Decimal sy
 
 I tried systems using letters rather than numbers and they didn't work. My initial attempt looked something like this:
 
-- HME.AC.ID = home system
-- DVO.AC.ID = the DevOps project at work
-- ETC.AC.ID = etc. for more projects
+- `HME.AC.ID` = home system
+- `DVO.AC.ID` = the DevOps project at work
+- `ETC.AC.ID` = etc. for more projects
 
 ## Numbers
 

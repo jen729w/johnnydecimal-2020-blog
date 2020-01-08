@@ -32,4 +32,37 @@ I tried systems using letters rather than numbers and they didn't work. My initi
 
 ## Numbers
 
+Here were my goals and constraints when introducing new numbers:
+
+1. It must not confuse the system.
+2. It must allow for a sufficient number of additional projects.
+3. It must allow the user to organise those projects in some way (i.e. like you organise categories in to areas).
+4. It must be optional and easy to add/remove/change.
+
+The solution is to **add a three-number project code to the start of your numbers**, e.g. `000.AC.ID`. In the abstract I'll refer to this as `PRJ.AC.ID`.
+
+## 1. It must not confuse the system
+
+Three numbers is not two numbers. I think if I'd gone with `PR.AC.ID`, e.g. `10.12.53`, that would have been a bit much on the brain. The only thing in the JD system with three numbers is a project code.
+
+## 2. It must allow for a sufficient number of additional projects
+
+One thousand projects should be enough for anyone. I'd love to know what you're doing if you need more than a thousand projects.
+
+## 3. It must allow the user to organise those projects in some way
+
+Here's what I do at home.
+
+```
+100-199 Personal
+  101 Personal system
+
+200-299 ACME Corp   // The name of the company I'm contracting to
+  200 ACME, general & templates
+  201 Project 1
+  202 Project 2
+  ...
+  211 Project 11    // Yeah, I'm really up to 11
+```
+
 <!-- TODO: Stick a Reddit link in here and create a post for the page. -->

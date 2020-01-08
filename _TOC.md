@@ -5,6 +5,7 @@
 ## Johnny.Decimal
 
 - [Multiple projects](johnny.decimal/projects.md)
+- [AC.ID notation](johnny.decimal/acid-notation.md)
 - [Brain dump](johnny.decimal/brain_dump.md)
 - [The history of J•D](johnny.decimal/history/the-history-of-j-d.md)
 

@@ -1,3 +1,3 @@
 # 🚧
 
-[This goes to 🔫](test/son-of-a-gun.md)
+[This goes to 🔫](/javascript/test/son-of-a-gun.md)

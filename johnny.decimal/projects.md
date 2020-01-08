@@ -1,4 +1,6 @@
-> This page will definitely become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
+{% hint style="info" %}
+This page will definitely become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
+{% endhint %}
 
 When I [started this system](history/the-history-of-j-d.md) I was running a specific project, and I didn't really consider the need for multiple projects _on the same computer_.
 

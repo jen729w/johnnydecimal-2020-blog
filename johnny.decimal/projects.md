@@ -4,3 +4,4 @@ When I [started this system](the-history-of-j-d.md) hey does it matter [where](b
 
 That's cool, so how I do I link to [nothing yet](../javascript/nothing-yet.md)?
 
+[🔫](../javascript/test/son-of-a-gun.md)

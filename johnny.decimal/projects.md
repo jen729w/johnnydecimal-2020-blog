@@ -30,9 +30,9 @@ The extended system must retain the advantages of the original Johnny.Decimal sy
 
 I tried systems using letters rather than numbers and they didn't work. My initial attempt looked something like this:
 
-* `HME.AC.ID` = home system
-* `DVO.AC.ID` = the DevOps project at work
-* `ETC.AC.ID` = etc. for more projects
+- `HME.AC.ID` = home system
+- `DVO.AC.ID` = the DevOps project at work
+- `ETC.AC.ID` = etc. for more projects
 
 ### The answer: more numbers
 
@@ -73,3 +73,4 @@ Here's what I do at home.
 
 I'll discuss this in more detail later.
 
+![](../.gitbook/assets/butchers-sketch-project-types.jpg)

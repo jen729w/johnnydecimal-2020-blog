@@ -13,5 +13,3 @@
 - [Nothing yet...](javascript/nothing-yet.md)
 
 ## Son-of-a-gun
-
-- [🔫](javascript/test/son-of-a-gun.md)

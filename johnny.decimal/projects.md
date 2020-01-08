@@ -20,14 +20,14 @@ If you haven't already, familiarise yourself with the [AC.ID notation](acid-nota
 
 There are two distinct kinds of system that seem to be required.
 
-1. You manage multiple totally separate projects. This is what I do (I'm an IT project manager/architect by day). Many of these projects are for the same client but they're quite distinct, different things. I'm going to call type 1 **contractor** (or **employee**).
-2. You have one main business, and in that business you manage multiple clients, and they may have multiple jobs each. Type 2 is your typical **freelancer**, graphic designer, writer, photographer.
+1. You manage multiple totally separate projects. This is what I do (I'm an IT project manager/architect by day). Many of these projects are for the same client but they're quite distinct, different things. I'm going to call **type 1 contractor** (or **employee**).
+2. You have one main business, and in that business you manage multiple clients, and they may have multiple jobs each. **Type 2** is your typical **freelancer**, graphic designer, writer, photographer.
 
 I'm still trying to fix this problem. I fall in to category 1. above, and my partner is 2. I just drew this on [my desk](../random/my-desk.md).
 
 ![](../.gitbook/assets/butchers-sketch-project-types.jpg)
 
-On the left we have type 1, **contractor**. The stick-figures are clients, and the lines out are projects. That's how I tend to work. The top figure is me, personally. Actually I only have one line out and it's my '101 Personal' project. The bottom figure is the company I'm working for, and the lines are the many projects.
+On the left we have type 1, **contractor**. The stick-figures are clients, and the lines out are projects. That's how I tend to work. The top figure is me, personally. Actually I only have one line out and it's my `101 Personal` project. The bottom figure is the company I'm working for, and the lines are the many projects.
 
 On the right we have type 2, **freelancer**. There are many clients, and each of them only has a job or two.
 
@@ -64,7 +64,7 @@ Here were my goals and constraints when introducing new numbers:
 3. It must allow the user to organise those projects in some way \(i.e. like you organise categories in to areas\).
 4. It must be optional and easy to add/remove/change.
 
-The solution is to **add a three-number project code to the start of your numbers**, e.g. `000.AC.ID`. In the abstract I'll refer to this as `PRO.AC.ID` 😃.
+The solution is to **add a three-number project code to the start of your numbers**, e.g. `000.AC.ID`. In the abstract I'll refer to this as `PRO.AC.ID`. 😃
 
 ### 1. It must not confuse the system
 
@@ -94,4 +94,4 @@ You have flexibility here to group by tens, or by hundreds. Up to you.
 
 ### 4. It must be optional and easy to add/remove/change
 
-I'll fill in this section later, it's not important.
+TBC, need to go to bed. 💤

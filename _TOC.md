@@ -1,13 +1,14 @@
 # Table of contents
 
-- [Home](_HOME.md)
+* [Home](_HOME.md)
 
 ## Johnny.Decimal
 
-- [Multiple projects](jd/projects.md)
-- [Brain dump](jd/brain_dump.md)
-- [The history of J•D](jd/history/origin_story.md)
+* [Multiple projects](johnny.decimal/projects.md)
+* [Brain dump](jd/brain_dump.md)
+* [The history of J•D](jd/history/origin_story.md)
 
 ## JavaScript
 
-- [Nothing yet...](#)
+* [Nothing yet...](javascript/nothing-yet....md)
+

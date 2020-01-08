@@ -13,6 +13,6 @@
 
 - [Nothing yet...](javascript/nothing-yet.md)
 
-## Son-of-a-gun
+## Random
 
-- [🔫](son-of-a-gun/son-of-a-gun.md)
+- [My desk](random/my-desk.md)

@@ -1,4 +1,4 @@
-# Multiple projects
+# Multiple projects, or multiple clients
 
 {% hint style="info" %}
 This page will definitely become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
@@ -13,6 +13,23 @@ Fast-forward a decade and I find myself needing more. I still have my personal s
 {% hint style="info" %}
 If you haven't already, familiarise yourself with the [AC.ID notation](acid-notation.md).
 {% endhint %}
+
+---
+
+# Projects vs. Clients
+
+There are two distinct kinds of system that seem to be required.
+
+1. You manage multiple totally separate projects. This is what I do (I'm an IT project manager/architect by day). Many of these projects are for the same client but they're quite distinct, different things. I'm going to call type 1 **contractor** (or **employee**).
+2. You have one main business, and in that business you manage multiple clients, and they may have multiple jobs each. Type 2 is your typical **freelancer**, graphic designer, writer, photographer.
+
+I'm still trying to fix this problem. I fall in to category 1. above, and my partner is 2. I just drew this on [my desk](../random/my-desk.md).
+
+![](../.gitbook/assets/butchers-sketch-project-types.jpg)
+
+On the left we have type 1, **contractor**. The stick-figures are clients, and the lines out are projects. That's how I tend to work. The top figure is me, personally. Actually I only have one line out and it's my '101 Personal' project. The bottom figure is the company I'm working for, and the lines are the many projects.
+
+On the right we have type 2, **freelancer**. There are many clients, and each of them only has a job or two.
 
 ## Adding projects to the system
 
@@ -34,6 +51,8 @@ I tried systems using letters rather than numbers and they didn't work. My initi
 - `DVO.AC.ID` = the DevOps project at work
 - `ETC.AC.ID` = etc. for more projects
 
+Now you just have to remember what those letters mean, and they don't add any semantic value to your system.
+
 ### The answer: more numbers
 
 Here were my goals and constraints when introducing new numbers:
@@ -43,7 +62,7 @@ Here were my goals and constraints when introducing new numbers:
 3. It must allow the user to organise those projects in some way \(i.e. like you organise categories in to areas\).
 4. It must be optional and easy to add/remove/change.
 
-The solution is to **add a three-number project code to the start of your numbers**, e.g. `000.AC.ID`. In the abstract I'll refer to this as `PRJ.AC.ID`.
+The solution is to **add a three-number project code to the start of your numbers**, e.g. `000.AC.ID`. In the abstract I'll refer to this as `PRO.AC.ID` 😃.
 
 ### 1. It must not confuse the system
 
@@ -55,7 +74,7 @@ One thousand projects should be enough for anyone. I'd love to know what you're 
 
 ### 3. It must allow the user to organise those projects in some way
 
-Here's what I do at home.
+Here's what my current system looks like.
 
 ```text
 100-199 Personal
@@ -69,8 +88,8 @@ Here's what I do at home.
   211 Project 11    // Yeah, I'm really up to 11
 ```
 
+You have flexibility here to group by tens, or by hundreds. Up to you.
+
 ### 4. It must be optional and easy to add/remove/change
 
-I'll discuss this in more detail later.
-
-![](../.gitbook/assets/butchers-sketch-project-types.jpg)
+I'll fill in this section later, it's not important.

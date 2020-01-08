@@ -4,8 +4,10 @@
 
 ## Johnny.Decimal
 
-- [Tech post](jd/tech-post.md)
+- [Multiple projects](jd/projects.md)
+- [Brain dump](jd/brain_dump.md)
+- [The history of J•D](jd/history/origin_story.md)
 
 ## JavaScript
 
-- [Thinking](js/thinking.md)
+- [Nothing yet...](#)

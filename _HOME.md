@@ -1,12 +1,14 @@
 ---
-description: What is this site?
+description: What's a playground? Where am I?
 ---
 
-I finally got a blog set up for Johnny.Decimal and then I realised [I didn't want a blog](https://joelhooks.com/digital-garden).
+So I finally got a blog set up for Johnny.Decimal and then I realised [I didn't actually want a blog](https://joelhooks.com/digital-garden).
 
-Rather, this site is like the staging ground for JD. It's ideas, some of them very sketchy. It's where I'll keep my to-do lists for the site. It's my brain, basically, for all things JD.
+Rather, this site is like the playground for JD. It's ideas, some of them very sketchy. It's where I'll keep my to-do lists for the site. It's my brain, basically, for all things JD.
 
 Some things may start here and 'graduate' to proper articles on johnnydecimal.com. Or not. I want the main site to be as pure and clean as possible. This place, not so much.
+
+There's no chronological order to the things here. They're just thoughts. If you ask me a question via email, I'll probably respond here.
 
 ## Johnny.Decimal vs. Technical articles
 

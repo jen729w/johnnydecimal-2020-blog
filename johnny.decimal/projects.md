@@ -1,5 +1,3 @@
-# Multiple projects
-
 {% hint style="info" %}
 This page will definitely become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
 {% endhint %}

@@ -31,11 +31,13 @@ On the left we have type 1, **contractor**. The stick-figures are clients, and t
 
 On the right we have type 2, **freelancer**. There are many clients, and each of them only has a job or two.
 
-## Adding projects to the system
+The system I describe below works really well for a **type 1 contractor**. It needs some tweaking for a **type 2 freelancer**, which I'll write up over the next few days.
+
+# Adding projects to the system
 
 I've thought about this for a few years, and have been using the system I'll describe here since 2018. So far it's working well for me.
 
-### Goals
+## Goals
 
 The extended system must retain the advantages of the original Johnny.Decimal system.
 
@@ -43,7 +45,7 @@ The extended system must retain the advantages of the original Johnny.Decimal sy
 2. You must be able to search \(your notes, your file system\) for this identifier.
 3. The identifier should be short and preferably memorable.
 
-### Letters: no good
+## Letters: no good
 
 I tried systems using letters rather than numbers and they didn't work. My initial attempt looked something like this:
 
@@ -53,7 +55,7 @@ I tried systems using letters rather than numbers and they didn't work. My initi
 
 Now you just have to remember what those letters mean, and they don't add any semantic value to your system.
 
-### The answer: more numbers
+## The answer: more numbers
 
 Here were my goals and constraints when introducing new numbers:
 

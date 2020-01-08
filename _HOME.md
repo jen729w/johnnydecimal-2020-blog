@@ -2,8 +2,6 @@
 description: What's a playground? Where am I?
 ---
 
-# Home
-
 So I finally got a blog set up for Johnny.Decimal and then I realised [I didn't actually want a blog](https://joelhooks.com/digital-garden).
 
 Rather, this site is like the playground for JD. It's ideas, some of them very sketchy. It's where I'll keep my to-do lists for the site. It's my brain, basically, for all things JD.

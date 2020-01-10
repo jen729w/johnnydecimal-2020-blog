@@ -1,7 +1,11 @@
 # Multiple projects, or multiple clients
 
 {% hint style="info" %}
-This page will definitely become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
+This page will become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
+{% endhint %}
+
+{% hint style="warn" %}
+This page is being actively updated as of 2020-01-10 15:15. Check back often!
 {% endhint %}
 
 When I [started this system](the-history-of-j-d.md) I was running a specific project, and I didn't really consider the need for multiple projects _on the same computer_.
@@ -23,7 +27,7 @@ There are two distinct kinds of system that seem to be required.
 1. You manage multiple totally separate projects. This is what I do (I'm an IT project manager/architect by day). Many of these projects are for the same client but they're quite distinct, different things. I'm going to call **type 1 contractor** (or **employee**).
 2. You have one main business, and in that business you manage multiple clients, and they may have multiple jobs each. **Type 2** is your typical **freelancer**, graphic designer, writer, photographer.
 
-I'm still trying to fix this problem. I fall in to category 1. above, and my partner is 2. I just drew this on [my desk](../random/my-desk.md).
+I'm still trying to fix this problem. I fall in to type 1 above, and my partner is a type 2. I just drew this on [my desk](../random/my-desk.md).
 
 ![](../.gitbook/assets/butchers-sketch-project-types.jpg)
 
@@ -32,6 +36,52 @@ On the left we have type 1, **contractor**. The stick-figures are clients, and t
 On the right we have type 2, **freelancer**. There are many clients, and each of them only has a job or two.
 
 The system I describe below works really well for a **type 1 contractor**. It needs some tweaking for a **type 2 freelancer**, which I'll write up over the next few days.
+
+---
+
+# The problem(s)
+
+> If you already understand the problem, you can skip this.
+
+If you followed my instructions, you'd probably set up a system that looked something like this.
+
+```
+10-19 Administration
+   11 ...             // Doesn't really matter what's up here
+
+20-29 Clients
+   21 Best client
+   22 Another client
+      22.01 Job 1
+      22.02 Job 2
+   23 Third client
+```
+
+A couple of problems are obvious:
+
+1. We are going to want to create folders within `22.01 Job 1` but the system says we shouldn't do that (and we shouldn't).
+2. This only allows us to have 10 clients.
+
+We might try and fix it like this.
+
+```
+10-19 Administration
+   11 ...
+
+20-29 Best client
+
+30-39 Another client
+   31 Job 1
+      31.01 Requirements
+      31.02 Quote
+      31.03 Artwork
+      31.04 External images
+      31.05 Final
+```
+
+Meh. Still no good – now we can only have ~9 clients, and each client can only have 10 jobs.
+
+---
 
 # Adding projects to the system
 

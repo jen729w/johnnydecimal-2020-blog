@@ -5,7 +5,7 @@ This page will become a formal part of the JD system when I've thought about it 
 {% endhint %}
 
 {% hint style="warning" %}
-This page is being actively updated as of 2020-01-10 15:15. Check back often!
+This page is being actively updated as of 2020-01-12 18:10. Check back often!
 {% endhint %}
 
 When I [started this system](the-history-of-j-d.md) I was running a specific project, and I didn't really consider the need for multiple projects _on the same computer_.
@@ -171,4 +171,15 @@ Of course, you don't have to group your projects at all if you don't want or nee
 
 # Implementation details
 
+Here's my actual `200-299 <Company>` folder, obfuscated for privacy.
+
 ![](../.gitbook/assets/200-folder-obfuscated.png)
+
+I don't use the project number in my area or category folders. This is because they tend to be fairly unique anyway, with the exception of my ubiquitous [10-19 Administration](10-19-administration.md).
+
+I **do** use the project number in my ID folders, and when I name files. There are a couple of reasons why I've found this to be right for me.
+
+1. When I use [Alfred](https://www.alfredapp.com), which I do many times a day, I can type the full `PRO.AC.ID` number and it'll open the folder immediately. (If you use macOS, you should use Alfred. Install it, activate it, press the spacebar, then type the name of a folder. 🤯)
+2. When you view the _Open Recent >_ menu—e.g. in Microsoft Excel—the filename shows the project name at the beginning. I find this really useful.
+
+As with most aspects of this system, you should adapt it to your needs. Try a few things and see what works. Change often – don't think that the first way you implement a thing will be the right one. The chances are it won't.

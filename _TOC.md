@@ -8,6 +8,7 @@
 - [AC.ID notation](johnny.decimal/acid-notation.md)
 - [Brain dump](johnny.decimal/brain_dump.md)
 - [The history of J•D](johnny.decimal/the-history-of-j-d.md)
+- [Example systems](johnny.decimal/example-systems.md)
 
 ## JavaScript
 

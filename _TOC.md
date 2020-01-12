@@ -9,6 +9,7 @@
 - [Brain dump](johnny.decimal/brain_dump.md)
 - [The history of J•D](johnny.decimal/the-history-of-j-d.md)
 - [Example systems](johnny.decimal/example-systems.md)
+- [10-19 Administration](johnny.decimal/10-19-administration.md)
 
 ## JavaScript
 

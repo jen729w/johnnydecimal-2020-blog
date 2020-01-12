@@ -20,34 +20,13 @@ If you haven't already, familiarise yourself with the [AC.ID notation](acid-nota
 
 ---
 
-# Projects vs. Clients
-
-There are two distinct kinds of system that seem to be required.
-
-1. You manage multiple totally separate projects. This is what I do (I'm an IT project manager/architect by day). Many of these projects are for the same client but they're quite distinct, different things. I'm going to call **type 1 contractor** (or **employee**).
-2. You have one main business, and in that business you manage multiple clients, and they may have multiple jobs each. **Type 2** is your typical **freelancer**, graphic designer, writer, photographer.
-
-I'm still trying to fix this problem. I fall in to type 1 above, and my partner is a type 2. I just drew this on [my desk](../random/my-desk.md).
-
-![](../.gitbook/assets/butchers-sketch-project-types.jpg)
-
-On the left we have type 1, **contractor**. The stick-figures are clients, and the lines out are projects. That's how I tend to work. The top figure is me, personally. Actually I only have one line out and it's my `101 Personal` project. The bottom figure is the company I'm working for, and the lines are the many projects.
-
-On the right we have type 2, **freelancer**. There are many clients, and each of them only has a job or two.
-
-The system I describe below works really well for a **type 1 contractor**. It needs some tweaking for a **type 2 freelancer**, which I'll write up over the next few days.
-
----
-
 # The problem(s)
-
-> If you already understand the problem, you can skip this.
 
 If you followed my instructions, you'd probably set up a system that looked something like this.
 
 ```
 10-19 Administration
-   11 ...             // Doesn't really matter what's up here
+   11 ...             // Whatever
 
 20-29 Clients
    21 Best client
@@ -59,7 +38,7 @@ If you followed my instructions, you'd probably set up a system that looked some
 
 A couple of problems are obvious:
 
-1. We are going to want to create folders within `22.01 Job 1` but the system says we shouldn't do that (and we shouldn't).
+1. We are going to want to create folders within `22.01 Job 1` but the system says we shouldn't do that (and we shouldn't – don't be tempted!).
 2. This only allows us to have 10 clients.
 
 We might try and fix it like this.
@@ -79,7 +58,34 @@ We might try and fix it like this.
       31.05 Final
 ```
 
-Meh. Still no good – now we can only have ~9 clients, and each client can only have 10 jobs.
+Still no good – now we can only have ~9 clients, and each client can only have 10 jobs.
+
+This problem is an unavoidable consequence of the way that the JD system is designed: one of the **benefits** of the system is that "nothing is more than two levels deep". This is a problem when we need to structure information about clients and jobs which is itself two levels deep. We've run out of levels.
+
+To fix it, we need to tweak the system.
+
+---
+
+# Projects vs. Clients
+
+There are two distinct kinds of system that seem to be required.
+
+1. You manage multiple totally separate projects. This is what I do (I'm an IT project manager/architect by day). Many of these projects are for the same client but they're quite distinct, different things. I'm going to call **type 1 contractor** (or **employee**).
+2. You have one main business, and in that business you manage multiple clients, and they may have multiple jobs each. **Type 2** is your typical **freelancer**, graphic designer, writer, photographer, or any **agency** that manages this kind of work.
+
+I'm still trying to fix this problem. I fall in to type 1 above, and my partner is a type 2. I just drew this on [my desk](../random/my-desk.md).
+
+![](../.gitbook/assets/butchers-sketch-project-types.jpg)
+
+On the left we have type 1, **contractor**. The stick-figures are clients, and the lines out are projects. That's how I tend to work. The top figure is me, personally. Actually I only have one line out and it's my `101 Personal` project. The bottom figure is the company I'm working for, and the lines are the many projects.
+
+{% hint style="info" %}
+My `101 Personal` project is published on the [example systems](example-systems.md) page.
+{% endhint %}
+
+On the right we have type 2, **freelancer**. There are many clients, and each of them only has a job or two.
+
+The system I describe below works really well for a **type 1 contractor**. It needs some tweaking for a **type 2 freelancer**, which I'll write up over the next few days.
 
 ---
 
@@ -112,7 +118,6 @@ Here were my goals and constraints when introducing new numbers:
 1. It must not confuse the system.
 2. It must allow for a sufficient number of additional projects.
 3. It must allow the user to organise those projects in some way \(i.e. like you organise categories in to areas\).
-4. It must be optional and easy to add/remove/change.
 
 The solution is to **add a three-number project code to the start of your numbers**, e.g. `000.AC.ID`. In the abstract I'll refer to this as `PRO.AC.ID`. 😃
 
@@ -142,6 +147,18 @@ Here's what my current system looks like.
 
 You have flexibility here to group by tens, or by hundreds. Up to you.
 
-### 4. It must be optional and easy to add/remove/change
+```
+100-109 If you group like this, you get 100
+110-119 divisions of 10 things each. This might
+120-129 suit you if you're a freelancer with a
+130-139 lot of clients, and occasionally those
+140-149 clients have more than one job.
+    141 Then you number your projects like this.
+    141.32.73 And individual items like this.
+```
 
-TBC, need to go to bed. 💤
+---
+
+# Implementing
+
+> TODO: Describe how you actually name your folders & files.

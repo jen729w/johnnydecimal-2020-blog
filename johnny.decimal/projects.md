@@ -171,6 +171,43 @@ Of course, you don't have to group your projects at all if you don't want or nee
 
 # Implementation details
 
+## (Probably) keep one project for your overall administration
+
+For most people who are in this situation, I _think_ you should use one project for all of the stuff that is general to your life/business/etc.
+
+So what I mean is we go from something like this.
+
+```text
+10-19 Administration
+20-29 Marketing
+   21 Advertising
+30-39 Finance
+   31 Accounting
+   32 Contracts
+40-49 Clients
+   41 ...                   // This is what didn't work
+   42 ...
+```
+
+...to this.
+
+```text
+101 Administration          // This is all the stuff
+    10-19 Administration    // from above, just in its
+    20-29 Marketing         // own 'project'.
+       21 Advertising
+    30-39 Finance
+       31 Accounting
+       32 Contracts
+102 First project           // And now we break out
+    10-19 ...               // all of the actual projects
+    20-29 ...               // as discussed above.
+103 Second project
+    10-19 ...
+```
+
+## My actual work folder
+
 Here's my actual `200-299 <Company>` folder, obfuscated for privacy.
 
 ![](../.gitbook/assets/200-folder-obfuscated.png)

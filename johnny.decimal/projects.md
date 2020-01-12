@@ -73,23 +73,23 @@ There are two distinct kinds of system that seem to be required.
 1. You manage multiple totally separate projects. This is what I do (I'm an IT project manager/architect by day). Many of these projects are for the same client but they're quite distinct, different things. I'm going to call **type 1 contractor** (or **employee**).
 2. You have one main business, and in that business you manage multiple clients, and they may have multiple jobs each. **Type 2** is your typical **freelancer**, graphic designer, writer, photographer, or any **agency** that manages this kind of work.
 
-I'm still trying to fix this problem. I fall in to type 1 above, and my partner is a type 2. I just drew this on [my desk](../random/my-desk.md).
+I fall in to type 1 above, and my partner is a type 2. I just drew this on [my desk](../random/my-desk.md).
 
 ![](../.gitbook/assets/butchers-sketch-project-types.jpg)
 
-On the left we have type 1, **contractor**. The stick-figures are clients, and the lines out are projects. That's how I tend to work. The top figure is me, personally. Actually I only have one line out and it's my `101 Personal` project. The bottom figure is the company I'm working for, and the lines are the many projects.
+On the left we have **type 1: contractor**. The stick-figures are clients, and the lines out are projects. That's how I tend to work. The top figure is me, personally. Actually I only have one line out and it's my `101 Personal` project. The bottom figure is the company I'm working for, and the lines are the many projects.
 
 {% hint style="info" %}
 My `101 Personal` project is published on the [example systems](example-systems.md) page.
 {% endhint %}
 
-On the right we have type 2, **freelancer**. There are many clients, and each of them only has a job or two.
+On the right we have **type 2: freelancer**. There are many clients, and each of them only has a job or two.
 
 ---
 
 # Adding projects to the system
 
-I've thought about this for a few years, and have been using the system I'll describe here since 2018. So far it's working well for me.
+I've thought about this for a few years, and have been using the system I'll describe here since 2018. So far it's working well for me. **I would love to hear from you if you're a type 2 – it is less tested for that type of use.**
 
 ## Goals
 
@@ -180,6 +180,12 @@ I don't use the project number in my area or category folders. This is because t
 I **do** use the project number in my ID folders, and when I name files. There are a couple of reasons why I've found this to be right for me.
 
 1. When I use [Alfred](https://www.alfredapp.com), which I do many times a day, I can type the full `PRO.AC.ID` number and it'll open the folder immediately. (If you use macOS, you should use Alfred. Install it, activate it, press the spacebar, then type the name of a folder. 🤯)
-2. When you view the _Open Recent >_ menu—e.g. in Microsoft Excel—the filename shows the project name at the beginning. I find this really useful.
+2. When you view the _Open Recent_ menu—e.g. in Microsoft Excel—the filename shows the project name at the beginning. I find this really useful.
 
-As with most aspects of this system, you should adapt it to your needs. Try a few things and see what works. Change often – don't think that the first way you implement a thing will be the right one. The chances are it won't.
+As with most aspects of this system, you should adapt it to your needs. Try a few things and see what works. Change often – don't think that the first way you implement a thing will be the right one, I've found it needs experimentation to get just right.
+
+---
+
+# I'm still working on this
+
+There's work to be done here. If this feels confusing, it's because I'm confused! 😜 [Mail me](mailto:hello@johnnydecimal.com) and we can work it out together.

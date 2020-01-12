@@ -85,8 +85,6 @@ My `101 Personal` project is published on the [example systems](example-systems.
 
 On the right we have type 2, **freelancer**. There are many clients, and each of them only has a job or two.
 
-The system I describe below works really well for a **type 1 contractor**. It needs some tweaking for a **type 2 freelancer**, which I'll write up over the next few days.
-
 ---
 
 # Adding projects to the system
@@ -131,7 +129,7 @@ One thousand projects should be enough for anyone. I'd love to know what you're 
 
 ### 3. It must allow the user to organise those projects in some way
 
-Here's what my current system looks like.
+Here's what my current system looks like. This works well for a **type 1: contractor**.
 
 ```text
 100-199 Personal
@@ -145,9 +143,9 @@ Here's what my current system looks like.
   211 Project 11    // Yeah, I'm really up to 11
 ```
 
-You have flexibility here to group by tens, or by hundreds. Up to you.
+Alternatively, you can group your projects by tens, rather than hundreds. This might work better if you're a **type 2: freelancer**.
 
-```
+```text
 100-109 If you group like this, you get 100
 110-119 divisions of 10 things each. This might
 120-129 suit you if you're a freelancer with a
@@ -157,8 +155,20 @@ You have flexibility here to group by tens, or by hundreds. Up to you.
     141.32.73 And individual items like this.
 ```
 
+Of course, you don't have to group your projects at all if you don't want or need to. In this case your projects will sort by order of creation, just like individual IDs do within a category.
+
+```text
+101 My first project
+102 which I would instinctively start at 101
+103 even though there's nothing wrong with the
+104 numbers 000-100. There's just something
+105 about reserving numbers at the 'front' of
+106 a system that I find reassuring. But
+107 you do whatever you want. :-)
+```
+
 ---
 
-# Implementing
+# Implementation details
 
-> TODO: Describe how you actually name your folders & files.
+![](../.gitbook/assets/200-folder-obfuscated.png)

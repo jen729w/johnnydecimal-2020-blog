@@ -10,6 +10,7 @@
 - [The history of J•D](johnny.decimal/the-history-of-j-d.md)
 - [Example systems](johnny.decimal/example-systems.md)
 - [10-19 Administration](johnny.decimal/10-19-administration.md)
+- [Common area/category patterns](johnny.decimal/common-AC-patterns.md)
 
 ## JavaScript
 

@@ -169,7 +169,7 @@ Of course, you don't have to group your projects at all if you don't want or nee
 
 If you're a **type 1 contractor** like me, this is probably all you need. Because each of your projects is likely to be quite large, you won't have that _many_ projects. In this case just treat each one as its own separate thing, with its own unique area/category structure which you basically start from scratch each time.
 
-You might find you have some similarities between projects, which you should [aggressively identify and optimise](common-ac-patterns.md). This is where JD makes you better at your job.
+You might find you have some similarities between projects, which you should [aggressively identify and optimise](common-area-category-patterns.md). This is where JD makes you better at your job.
 
 It is extra important—and I've learned this the hard way—that you track your numbers effectively if you have multiple projects. I realise this is difficult and am working on making it easier but, believe me, if you don't do it you'll regret it.
 

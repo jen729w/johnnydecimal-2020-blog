@@ -4,10 +4,6 @@
 This page will become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
 {% endhint %}
 
-{% hint style="warning" %}
-This page is being actively updated as of 2020-01-12 18:10. Check back often!
-{% endhint %}
-
 When I [started this system](the-history-of-j-d.md) I was running a specific project, and I didn't really consider the need for multiple projects _on the same computer_.
 
 If two projects never meet, there's no issue. I have a project at work with one set of numbers and my system at home with another, totally unrelated, set of numbers. No problem at all – it's like I'm two people leading separate lives.
@@ -169,6 +165,28 @@ Of course, you don't have to group your projects at all if you don't want or nee
 
 ---
 
+# Type 1 vs. Type 2
+
+If you're a **type 1 contractor** like me, this is probably all you need. Because each of your projects is likely to be quite large, you won't have that _many_ projects. In this case just treat each one as its own separate thing, with its own unique area/category structure which you basically start from scratch each time.
+
+You might find you have some similarities between projects, which you should [aggressively identify and optimise](common-AC-patterns.md). This is where JD makes you better at your job.
+
+It is extra important—and I've learned this the hard way—that you track your numbers effectively if you have multiple projects. I realise this is difficult and am working on making it easier but, believe me, if you don't do it you'll regret it.
+
+## Side note on this whole tracking-numbers thing
+
+I do appreciate that keeping an index of numbers is an overhead. But I think for the 1% cost this incurs, you get 10% back. I'll expand on this when I get more time.
+
+## Type 2 freelancer (designer/writer/photographer/agency/...)
+
+If you're a **type 2 freelancer**, at this point you might be wondering if I've really solved your problem or whether I've just given you a bunch of numbers to track.
+
+Your situation is different. All of your projects are, if not the _same_, at least very _similar_. I bet you could draw the structure of one of your projects on a whiteboard now without even thinking about it. You've got a specification/request, the financial stuff, assets, the actual work which you produce, and final/approved versions which go out.
+
+**Standardise this and create a template.**
+
+---
+
 # Implementation details
 
 ## (Probably) keep one project for your overall administration
@@ -205,6 +223,14 @@ So what I mean is we go from something like this.
 103 Second project
     10-19 ...
 ```
+
+<!-- The Great Realisation!
+
+Type 1 people like me don't need template folders because we have less projects and every project is unique.
+
+Type 2 people like Lucy do because the have more projects and they're all the same.
+
+ -->
 
 ## My actual work folder
 

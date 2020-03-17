@@ -1,4 +1,6 @@
-# Multiple projects, or multiple clients
+# Multiple projects
+
+## Multiple projects, or multiple clients
 
 {% hint style="info" %}
 This page will become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
@@ -14,13 +16,11 @@ Fast-forward a decade and I find myself needing more. I still have my personal s
 If you haven't already, familiarise yourself with the [AC.ID notation](acid-notation.md).
 {% endhint %}
 
----
-
-# The problem(s)
+## The problem\(s\)
 
 If you followed my instructions, you'd probably set up a system that looked something like this.
 
-```
+```text
 10-19 Administration
    11 ...             // Whatever
 
@@ -34,12 +34,12 @@ If you followed my instructions, you'd probably set up a system that looked some
 
 A couple of problems are obvious:
 
-1. We are going to want to create folders within `22.01 Job 1` but the system says we shouldn't do that (and we shouldn't – don't be tempted!).
+1. We are going to want to create folders within `22.01 Job 1` but the system says we shouldn't do that \(and we shouldn't – don't be tempted!\).
 2. This only allows us to have 10 clients.
 
 We might try and fix it like this.
 
-```
+```text
 10-19 Administration
    11 ...
 
@@ -60,13 +60,11 @@ This problem is an unavoidable consequence of the way that the JD system is desi
 
 To fix it, we need to tweak the system.
 
----
-
-# Projects vs. Clients
+## Projects vs. Clients
 
 There are two distinct kinds of system that seem to be required.
 
-1. You manage multiple totally separate projects. This is what I do (I'm an IT project manager/architect by day). Many of these projects are for the same client but they're quite distinct, different things. I'm going to call **type 1 contractor** (or **employee**).
+1. You manage multiple totally separate projects. This is what I do \(I'm an IT project manager/architect by day\). Many of these projects are for the same client but they're quite distinct, different things. I'm going to call **type 1 contractor** \(or **employee**\).
 2. You have one main business, and in that business you manage multiple clients, and they may have multiple jobs each. **Type 2** is your typical **freelancer**, graphic designer, writer, photographer, or any **agency** that manages this kind of work.
 
 I fall in to type 1 above, and my partner is a type 2. I just drew this on [my desk](../random/my-desk.md).
@@ -81,13 +79,11 @@ My `101 Personal` project is published on the [example systems](example-systems.
 
 On the right we have **type 2: freelancer**. There are many clients, and each of them only has a job or two.
 
----
-
-# Adding projects to the system
+## Adding projects to the system
 
 I've thought about this for a few years, and have been using the system I'll describe here since 2018. So far it's working well for me. **I would love to hear from you if you're a type 2 – it is less tested for that type of use.**
 
-## Goals
+### Goals
 
 The extended system must retain the advantages of the original Johnny.Decimal system.
 
@@ -95,17 +91,17 @@ The extended system must retain the advantages of the original Johnny.Decimal sy
 2. You must be able to search \(your notes, your file system\) for this identifier.
 3. The identifier should be short and preferably memorable.
 
-## Letters: no good
+### Letters: no good
 
 I tried systems using letters rather than numbers and they didn't work. My initial attempt looked something like this:
 
-- `HME.AC.ID` = home system
-- `DVO.AC.ID` = the DevOps project at work
-- `ETC.AC.ID` = etc. for more projects
+* `HME.AC.ID` = home system
+* `DVO.AC.ID` = the DevOps project at work
+* `ETC.AC.ID` = etc. for more projects
 
 Now you just have to remember what those letters mean, and they don't add any semantic value to your system.
 
-## The answer: more numbers
+### The answer: more numbers
 
 Here were my goals and constraints when introducing new numbers:
 
@@ -115,15 +111,15 @@ Here were my goals and constraints when introducing new numbers:
 
 The solution is to **add a three-number project code to the start of your numbers**, e.g. `000.AC.ID`. In the abstract I'll refer to this as `PRO.AC.ID`. 😃
 
-### 1. It must not confuse the system
+#### 1. It must not confuse the system
 
 Three numbers is not two numbers. I think if I'd gone with `PR.AC.ID`, e.g. `10.12.53`, that would have been a bit much on the brain. The only thing in the JD system with three numbers is a project code.
 
-### 2. It must allow for a sufficient number of additional projects
+#### 2. It must allow for a sufficient number of additional projects
 
 One thousand projects should be enough for anyone. I'd love to know what you're doing if you need more than a thousand projects.
 
-### 3. It must allow the user to organise those projects in some way
+#### 3. It must allow the user to organise those projects in some way
 
 Here's what my current system looks like. This works well for a **type 1: contractor**.
 
@@ -163,9 +159,7 @@ Of course, you don't have to group your projects at all if you don't want or nee
 107 you do whatever you want. :-)
 ```
 
----
-
-# Type 1 vs. Type 2
+## Type 1 vs. Type 2
 
 If you're a **type 1 contractor** like me, this is probably all you need. Because each of your projects is likely to be quite large, you won't have that _many_ projects. In this case just treat each one as its own separate thing, with its own unique area/category structure which you basically start from scratch each time.
 
@@ -173,11 +167,11 @@ You might find you have some similarities between projects, which you should [ag
 
 It is extra important—and I've learned this the hard way—that you track your numbers effectively if you have multiple projects. I realise this is difficult and am working on making it easier but, believe me, if you don't do it you'll regret it.
 
-## Side note on this whole tracking-numbers thing
+### Side note on this whole tracking-numbers thing
 
 I do appreciate that keeping an index of numbers is an overhead. But I think for the 1% cost this incurs, you get 10% back. I'll expand on this when I get more time.
 
-## Type 2 freelancer (designer/writer/photographer/agency/...)
+### Type 2 freelancer \(designer/writer/photographer/agency/...\)
 
 If you're a **type 2 freelancer**, at this point you might be wondering if I've really solved your problem or whether I've just given you a bunch of numbers to track.
 
@@ -185,11 +179,9 @@ Your situation is different. All of your projects are, if not the _same_, at lea
 
 **Standardise this and create a template.**
 
----
+## Implementation details
 
-# Implementation details
-
-## (Probably) keep one project for your overall administration
+### \(Probably\) keep one project for your overall administration
 
 For most people who are in this situation, I _think_ you should use one project for all of the stuff that is general to your life/business/etc.
 
@@ -224,15 +216,7 @@ So what I mean is we go from something like this.
     10-19 ...
 ```
 
-<!-- The Great Realisation!
-
-Type 1 people like me don't need template folders because we have less projects and every project is unique.
-
-Type 2 people like Lucy do because the have more projects and they're all the same.
-
- -->
-
-## My actual work folder
+### My actual work folder
 
 Here's my actual `200-299 <Company>` folder, obfuscated for privacy.
 
@@ -242,13 +226,12 @@ I don't use the project number in my area or category folders. This is because t
 
 I **do** use the project number in my ID folders, and when I name files. There are a couple of reasons why I've found this to be right for me.
 
-1. When I use [Alfred](https://www.alfredapp.com), which I do many times a day, I can type the full `PRO.AC.ID` number and it'll open the folder immediately. (If you use macOS, you should use Alfred. Install it, activate it, press the spacebar, then type the name of a folder. 🤯)
+1. When I use [Alfred](https://www.alfredapp.com), which I do many times a day, I can type the full `PRO.AC.ID` number and it'll open the folder immediately. \(If you use macOS, you should use Alfred. Install it, activate it, press the spacebar, then type the name of a folder. 🤯\)
 2. When you view the _Open Recent_ menu—e.g. in Microsoft Excel—the filename shows the project name at the beginning. I find this really useful.
 
 As with most aspects of this system, you should adapt it to your needs. Try a few things and see what works. Change often – don't think that the first way you implement a thing will be the right one, I've found it needs experimentation to get just right.
 
----
-
-# I'm still working on this
+## I'm still working on this
 
 There's work to be done here. If this feels confusing, it's because I'm confused! 😜 [Mail me](mailto:hello@johnnydecimal.com) and we can work it out together.
+

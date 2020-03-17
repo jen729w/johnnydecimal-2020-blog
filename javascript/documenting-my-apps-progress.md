@@ -2,7 +2,7 @@
 description: Noting that I don't really know what 'my app' is going to look like yet.
 ---
 
-# Documenting my app's process
+# Documenting my app's progress
 
 It's 2020 and I'm getting back in to my JavaScript/React. I started teaching myself JS a couple of years ago and after a slow start it 'clicked' and the learning curve was good and steady.
 

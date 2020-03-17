@@ -14,7 +14,7 @@
 
 ## JavaScript
 
-* [Documenting my app's process](javascript/documenting-my-apps-process.md)
+* [Documenting my app's progress](javascript/documenting-my-apps-progress.md)
 * [Nothing yet...](javascript/nothing-yet.md)
 
 ## Random

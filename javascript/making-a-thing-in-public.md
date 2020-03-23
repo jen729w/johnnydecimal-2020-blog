@@ -145,7 +145,21 @@ The other things we might find are 'anything else', or the end of the file. We a
 
 This is a screenshot from XState's amazing visualiser. You can [play with this tiny state machine here](https://xstate.js.org/viz/?gist=12cd298a3db89e1ff7abf6d8b8e81f41).
 
+### Add the next transition
 
+Let's keep going. If we've just detected an area, what can legally happen next? We can detect another area, or a category:
 
+```text
+10-19 My special area
+20-29 This is perfectly legal
+   21 ...
+```
 
+We add those transitions to the state machine and end up [with this](https://xstate.js.org/viz/?gist=d473805a65b11ba644253108e97b5442).
+
+![](../.gitbook/assets/screen-shot-2020-03-23-at-20.25.22.png)
+
+Let's just [finish](https://xstate.js.org/viz/?gist=86e70ac75b1ad36a9ac4a4b5a34bbd42) this tiny state machine. The diagram starts becoming less readable but that's not important.
+
+![Credit to Firefox Developer Edition&apos;s wonderful &apos;screenshot node&apos; feature, by the way](../.gitbook/assets/screen-shot-2020-03-23-at-20.34.51.png)
 

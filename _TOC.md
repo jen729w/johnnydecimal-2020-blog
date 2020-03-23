@@ -14,8 +14,8 @@
 
 ## JavaScript
 
+* [Making a thing \(in public!\)](javascript/making-a-thing-in-public.md)
 * [Documenting my app's progress](javascript/documenting-my-apps-progress.md)
-* [Nothing yet...](javascript/nothing-yet.md)
 
 ## Random
 

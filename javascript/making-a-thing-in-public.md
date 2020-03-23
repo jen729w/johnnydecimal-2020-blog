@@ -115,7 +115,7 @@ Here's my first crack at what this file might look like. I probably won't update
 
 Right behind Gruber's Markdown in the list of things that Johnny loves is [XState](https://xstate.js.org/docs/). 'Changed my life' is a strong description, but it's not far off.
 
-In a nutshell, a state machine \(of which XState is an implementation\) allows you to formally define the states that _a thing_ can be in. What thing? Whatever you like. A common use-cases is a user interface: when a user clicks the **Upload** button, that button should be disabled until the upload has completed \(or is cancelled or fails or it stops being Tuesday afternoon or whatever\).
+In a nutshell, a state machine \(of which XState is an implementation\) allows you to formally define the states that _a thing_ can be in. What thing? Whatever you like. A common use-case is a user interface: when a user clicks an **Upload** button, that button should be disabled until the upload has completed \(or is cancelled or fails or it stops being Tuesday afternoon or whatever\).
 
 Traditionally we've done that with boolean values. `isUploading = true` and nonsense like that. Then you end up in this terrible situation where you're testing `if (isUploading && notCrashed && notCancelled && stillTuesdayAfternoon)` and that leads to all sorts of bugs. It's just the wrong way to do things.
 

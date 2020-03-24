@@ -8,8 +8,6 @@ This stuff looks comically bad now but at the time I couldn't believe _I'd made 
 
 An early version of the main website. Probably hand-coded in raw HTML.
 
-
-
 ![](../.gitbook/assets/img_4051.jpg)
 
 The first ever app! Unstyled HTML, I think this had an Express back-end. This is before I discovered React.

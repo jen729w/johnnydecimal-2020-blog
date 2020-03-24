@@ -19,4 +19,5 @@
 ## Random
 
 * [My desk](random/my-desk.md)
+* [The museum](random/the-museum.md)
 

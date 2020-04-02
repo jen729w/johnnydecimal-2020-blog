@@ -14,7 +14,7 @@ Check out [the main site](https://johnnydecimal.com) first. 👍🏽
 
 ### Johnny.Decimal
 
-The [main site](https://johnnydecimal.com) contains articles that are 'mature'. Ideas that are less mature will start here and may graduate to the main site in time.
+The [main site](https://johnnydecimal.com) contains articles that are mature. Ideas that are less mature will start here and may graduate to the main site in time.
 
 Some of the articles here may be little more than placeholders. That's why this thing is called a 'playground' and [not](https://joelhooks.com/digital-garden) a 'blog'. It's a place for my brain to dump ideas.
 

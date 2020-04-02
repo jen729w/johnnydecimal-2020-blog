@@ -15,7 +15,7 @@
 ## JavaScript
 
 * [Making a thing \(in public!\)](javascript/making-a-thing-in-public.md)
-* [Debugging experience](javascript/debugging-experience.md)
+* [🚧 Debugging experience](javascript/debugging-experience.md)
 
 ## Random
 

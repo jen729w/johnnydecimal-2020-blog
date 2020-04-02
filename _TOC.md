@@ -6,11 +6,6 @@
 
 * [Multiple projects](johnny.decimal/projects.md)
 * [AC.ID notation](johnny.decimal/acid-notation.md)
-* [Brain dump](johnny.decimal/brain_dump.md)
-* [The history of J•D](johnny.decimal/the-history-of-j-d.md)
-* [Example systems](johnny.decimal/example-systems.md)
-* [10-19 Administration](johnny.decimal/10-19-administration.md)
-* [Common area/category patterns](johnny.decimal/common-area-category-patterns.md)
 
 ## JavaScript
 
@@ -21,4 +16,12 @@
 
 * [My desk](random/my-desk.md)
 * [The museum](random/the-museum.md)
+
+## 🚧 Placeholders
+
+* [🚧 10-19 Administration](placeholders/10-19-administration.md)
+* [🚧 Example systems](placeholders/example-systems.md)
+* [🚧 The history of J•D](placeholders/the-history-of-j-d.md)
+* [🚧 Brain dump](placeholders/brain_dump.md)
+* [🚧 Common area/category patterns](placeholders/common-area-category-patterns.md)
 

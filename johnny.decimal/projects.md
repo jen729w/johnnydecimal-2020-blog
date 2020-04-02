@@ -6,7 +6,7 @@
 This page will become a formal part of the JD system when I've thought about it some more. This is probably the thing I get asked about the most.
 {% endhint %}
 
-When I [started this system](the-history-of-j-d.md) I was running a specific project, and I didn't really consider the need for multiple projects _on the same computer_.
+When I [started this system](../placeholders/the-history-of-j-d.md) I was running a specific project, and I didn't really consider the need for multiple projects _on the same computer_.
 
 If two projects never meet, there's no issue. I have a project at work with one set of numbers and my system at home with another, totally unrelated, set of numbers. No problem at all – it's like I'm two people leading separate lives.
 
@@ -74,7 +74,7 @@ I fall in to type 1 above, and my partner is a type 2. I just drew this on [my d
 On the left we have **type 1: contractor**. The stick-figures are clients, and the lines out are projects. That's how I tend to work. The top figure is me, personally. Actually I only have one line out and it's my `101 Personal` project. The bottom figure is the company I'm working for, and the lines are the many projects.
 
 {% hint style="info" %}
-My `101 Personal` project is published on the [example systems](example-systems.md) page.
+My `101 Personal` project is published on the [example systems](../placeholders/example-systems.md) page.
 {% endhint %}
 
 On the right we have **type 2: freelancer**. There are many clients, and each of them only has a job or two.
@@ -163,7 +163,7 @@ Of course, you don't have to group your projects at all if you don't want or nee
 
 If you're a **type 1 contractor** like me, this is probably all you need. Because each of your projects is likely to be quite large, you won't have that _many_ projects. In this case just treat each one as its own separate thing, with its own unique area/category structure which you basically start from scratch each time.
 
-You might find you have some similarities between projects, which you should [aggressively identify and optimise](common-area-category-patterns.md). This is where JD makes you better at your job.
+You might find you have some similarities between projects, which you should [aggressively identify and optimise](../placeholders/common-area-category-patterns.md). This is where JD makes you better at your job.
 
 It is extra important—and I've learned this the hard way—that you track your numbers effectively if you have multiple projects. I realise this is difficult and am working on making it easier but, believe me, if you don't do it you'll regret it.
 
@@ -222,7 +222,7 @@ Here's my actual `200-299 <Company>` folder, obfuscated for privacy.
 
 ![](../.gitbook/assets/200-folder-obfuscated.png)
 
-I don't use the project number in my area or category folders. This is because they tend to be fairly unique anyway, with the exception of my ubiquitous [10-19 Administration](10-19-administration.md).
+I don't use the project number in my area or category folders. This is because they tend to be fairly unique anyway, with the exception of my ubiquitous [10-19 Administration](../placeholders/10-19-administration.md).
 
 I **do** use the project number in my ID folders, and when I name files. There are a couple of reasons why I've found this to be right for me.
 

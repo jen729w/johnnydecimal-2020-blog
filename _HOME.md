@@ -2,27 +2,29 @@
 description: What's a playground? Where am I?
 ---
 
-# Home
+# The Johnny.Decimal 'playground'
 
-So I finally got a blog set up for Johnny.Decimal and then I realised [I didn't actually want a blog](https://joelhooks.com/digital-garden).
+What is this and what will I find here?
 
-Rather, this site is like the playground for JD. It's ideas, some of them very sketchy. It's where I'll keep my to-do lists for the site. It's my brain, basically, for all things JD.
+{% hint style="info" %}
+If you've come directly here and aren't already familiar with the Johnny.Decimal system, this probably won't make much sense.
 
-Some things may start here and 'graduate' to proper articles on [johnnydecimal.com](https://johnnydecimal.com). Or not. I want the main site to be as pure and clean as possible. This place, not so much.
+Check out [the main site](https://johnnydecimal.com) first. 👍🏽
+{% endhint %}
+
+### Johnny.Decimal
+
+The [main site](https://johnnydecimal.com) contains articles that are 'mature'. Ideas that are less mature will start here and may graduate to the main site in time.
+
+Some of the articles here may be little more than placeholders. That's why this thing is called a 'playground' and [not](https://joelhooks.com/digital-garden) a 'blog'. It's a place for my brain to dump ideas.
 
 There's no chronological order to the things here. They're just thoughts. If you ask me a question via email, I'll probably respond with a page here so that everyone can reference it.
 
-### It's half-finished, man...
+### JavaScript
 
-Do you have any idea how liberating it is for a brain like mine to be able to throw up a half-finished idea and not worry about it? You might land on pages that are barely started. I'm just putting them there so I don't forget to flesh them out.
+I'm teaching myself to code so that I can write some tools to _support_ the system. I'll keep notes about that separate, so if you're not in to JavaScript or what have you, you can just ignore that stuff and know you're not missing anything. This is all under the **JavaScript** header.
 
-## Johnny.Decimal vs. Technical articles
+### Random
 
-There'll be information about two distinct types of thing here. First, obviously, anything to do with the JD system itself. Those things are all under the **Johnny.Decimal** header.
-
-Second, I'm teaching myself to code so that I can write some tools to _support_ the system. I'll keep notes about that separate, so if you're not in to JavaScript or what have you, you can just ignore that stuff and know you're not missing anything. This is all under the **JavaScript** header.
-
-## What changed, when?
-
-If you're interested, this site is stored on GitHub. The repository is public so you can [see all commits here](https://github.com/jen729w/johnnydecimal-2020-blog/commits/master).
+Random stuff. Probably not useful.
 

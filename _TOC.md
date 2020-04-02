@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](_HOME.md)
+* [The Johnny.Decimal 'playground'](_HOME.md)
 
 ## Johnny.Decimal
 

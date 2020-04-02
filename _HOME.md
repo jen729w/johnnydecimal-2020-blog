@@ -22,7 +22,7 @@ There's no chronological order to the things here. They're just thoughts. If you
 
 ### JavaScript
 
-I'm teaching myself to code so that I can write some tools to _support_ the system. I'll keep notes about that separate, so if you're not in to JavaScript or what have you, you can just ignore that stuff and know you're not missing anything. This is all under the **JavaScript** header.
+I'm teaching myself to code so that I can write some tools to _support_ the system. I'll keep notes about that separate, so if you're not in to JavaScript or what have you, you can just ignore it and know you're not missing anything. This is all under the **JavaScript** header.
 
 ### Random
 

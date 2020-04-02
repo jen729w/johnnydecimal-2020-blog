@@ -12,7 +12,7 @@ An early version of the main website. Probably hand-coded in raw HTML.
 
 The first ever app! Unstyled HTML, I think this had an Express back-end. This is before I discovered React.
 
-![](../.gitbook/assets/image-1.JPG)
+![](../.gitbook/assets/image-1%20%281%29.JPG)
 
 A bit more styling. The screenshots come from my partner who I was messaging with great excitement. "Look at what I can do!"
 

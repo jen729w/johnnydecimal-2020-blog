@@ -222,7 +222,7 @@ Here's my actual `200-299 <Company>` folder, obfuscated for privacy.
 
 ![](../.gitbook/assets/200-folder-obfuscated.png)
 
-I don't use the project number in my area or category folders. This is because they tend to be fairly unique anyway, with the exception of my ubiquitous [10-19 Administration](../placeholders/10-19-administration.md).
+I don't use the project number in my area or category folders. This is because they tend to be fairly unique anyway, with the exception of my ubiquitous [10-19 Administration](10-19-administration.md).
 
 I **do** use the project number in my ID folders, and when I name files. There are a couple of reasons why I've found this to be right for me.
 

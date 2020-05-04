@@ -6,6 +6,7 @@
 
 * [Multiple projects](johnny.decimal/projects.md)
 * [AC.ID notation](johnny.decimal/acid-notation.md)
+* [10-19 Administration](johnny.decimal/10-19-administration.md)
 
 ## JavaScript
 
@@ -19,7 +20,6 @@
 
 ## 🚧 Placeholders
 
-* [🚧 10-19 Administration](placeholders/10-19-administration.md)
 * [🚧 Example systems](placeholders/example-systems.md)
 * [🚧 The history of J•D](placeholders/the-history-of-j-d.md)
 * [🚧 Brain dump](placeholders/brain_dump.md)

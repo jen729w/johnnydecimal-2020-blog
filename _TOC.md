@@ -8,6 +8,7 @@
 * [AC.ID notation](johnny.decimal/acid-notation.md)
 * [10-19 Administration](johnny.decimal/10-19-administration.md)
 * [JD PMP-style category](johnny.decimal/jd-pmp-style-category.md)
+* ["What it is" vs. "what it is for"](johnny.decimal/what-it-is-vs.-what-it-is-for.md)
 
 ## JavaScript
 

@@ -9,7 +9,7 @@
 
 ## JavaScript
 
-* [Making a thing \(in public!\)](javascript/making-a-thing-in-public.md)
+* [Creating a language, part I: define the language](javascript/creating-a-language-part-i-define-the-language.md)
 * [🚧 Debugging experience](javascript/debugging-experience.md)
 
 ## Random
@@ -24,4 +24,5 @@
 * [🚧 The history of J•D](placeholders/the-history-of-j-d.md)
 * [🚧 Brain dump](placeholders/brain_dump.md)
 * [🚧 Common area/category patterns](placeholders/common-area-category-patterns.md)
+* [🚧 JD PMP-style category](placeholders/jd-pmp-style-category.md)
 

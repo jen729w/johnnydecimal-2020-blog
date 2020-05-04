@@ -26,5 +26,3 @@ This can help. A text file \(keep it simple! If I see you launching Word I'll co
 This page was created because somebody [mailed me](mailto:hello@johnnydecimal.com) with a question. That's _great_ motivation for me. Feel free to do the same.
 {% endhint %}
 
-
-

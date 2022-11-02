@@ -4,6 +4,10 @@ description: What's a playground? Where am I?
 
 # The Johnny.Decimal 'playground'
 
+{% hint style="warning" %}
+2022-11-03 note: this site is way out of date and no longer used. Some time in the next few months I'll rebuild the main site and consolidate any of the relevant content from this area. For now you should probably ignore this.
+{% endhint %}
+
 What is this and what will I find here?
 
 {% hint style="info" %}
